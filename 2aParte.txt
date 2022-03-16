@@ -1,0 +1,19 @@
+I.
+Per quanto riguarda l'accesso di ogni operatore, un meccanismo di autenticazione tramite
+username e password è stato scelto. Le credenziali vengono salvate su una tabella
+denominata "users"; la password in particolare viene salvata come un hash.
+
+II.
+
+
+III.
+Una vista in una base dati è come una tabella virtuale senza dati.
+Nel momento dell'utilizzo, la vista viene interpretata e ritorna i dati richiesti.
+
+IV.
+Un DBMS utilizza varie tipologie di linguaggi, tra cui:
+DDL (Data Definition Language): Usato per creare schemi di database e tabelle
+DML (Data Manipulation Language): Usato per interagire con i dati, attraverso funzioni di aggiunta, modifica, ...
+DQL (Data Query Language): Linguaggio utilizzato per eseguire ricerche su dati esistenti (SELECT)
+DCL (Data Control Language): Linguaggio utilizzato per gestire le autorizzazioni di accesso ai dati
+TCL (Transaction Control Language): Utilizzato per gestire le transazioni
