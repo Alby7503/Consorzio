@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Formaggio formaggioso",
+        "description": "Questo formaggio è stato definito 'formaggioso' dai più alti esperti di formaggi",
+        "price": 5.00,
+        "image": "Formaggio0.jpg"
+    },
+    {
+        "name": "Formaggio cosato",
+        "description": "Cosato professionalmente, da noi",
+        "price": 10.00,
+        "image": "Formaggio1.webp"
+    },
+    {
+        "name": "Formaggio blu",
+        "description": "Formaggio, ma blu (non fidarti dei tuoi occhi)",
+        "price": 15.00,
+        "image": "Formaggio2.jpg"
+    }
+]
